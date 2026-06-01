@@ -1,44 +1,36 @@
-<div align="center">
-  <h1 align="center">Basic To Advance (34 Questions)</h1>
-  <p align="center">
-    <strong>Project from the <a href="https://github.com/CoderFatherBB/Computer_Graphics_and_Gaming">Computer_Graphics_and_Gaming</a> Repository</strong>
-  </p>
-</div>
+# Basic To Advance (34 Questions)
 
----
+Part of [`Computer_Graphics_and_Gaming`](https://github.com/CoderFatherBB/Computer_Graphics_and_Gaming) at `Basic_to_Advance_(34_Questions)`.
 
-## 📖 Overview
+## About
 
-Welcome to the **Basic To Advance (34 Questions)** project! This directory contains the specific source code, resources, and implementation details for this project.
+`Basic To Advance (34 Questions)` stores the question prompts or problem statements used by the matching answer/program folders in `Computer_Graphics_and_Gaming`.
 
+## Contents
 
+- `#Questions.txt`: data or support artifact.
+- `1.C`: C/C++ source file.
+- `12.C`: C/C++ source file.
+- `12_13_14_21_22_23_24.C`: C/C++ source file.
+- `15_16_18.C`: C/C++ source file.
+- `17_19.C`: C/C++ source file.
+- `2.C`: C/C++ source file.
+- `20.C`: C/C++ source file.
+- `25_26.C`: C/C++ source file.
+- `29_31_32_33.C`: C/C++ source file.
+- `3.C`: C/C++ source file.
+- `4.C`: C/C++ source file.
+- `5.C`: C/C++ source file.
+- `6.C`: C/C++ source file.
+- `7_8_10_11.C`: C/C++ source file.
 
----
+## Use
 
-## 🚀 Getting Started
+Open the files in this folder directly, or use them from the parent project as supporting resources.
 
-### Prerequisites
-Make sure you have the necessary environment setup to run or build this project. Depending on the repository's technology stack, you may need:
-- Standard language compilers/interpreters (e.g., Python, C++, Java).
-- Required frameworks and libraries as per the codebase.
-
-### Running the Code
-1. Ensure you are in the project directory:
-   ```bash
-   cd "Basic_to_Advance_(34_Questions)"
-   ```
-2. Execute the main scripts or compile the source code according to the language standards.
-
----
-
-## 👤 Author
+## Author
 
 **Bhavin Baldota**
 
 - LinkedIn: [Bhavin Baldota](https://www.linkedin.com/in/bhavin-baldota-103553234/)
 - GitHub: [@CoderFatherBB](https://github.com/CoderFatherBB)
-
----
-<div align="center">
-  <sub>Made with ❤️ by Bhavin Baldota</sub>
-</div>
